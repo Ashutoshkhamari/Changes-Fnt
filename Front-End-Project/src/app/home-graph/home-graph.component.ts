@@ -23,14 +23,14 @@ export class HomeGraphComponent implements OnInit {
         legendMarkerColor: "grey",
         // legendText: "MMbbl = one million barrels",
         dataPoints: [      
-          { y: 300878, label: "Venezuela" },
-          { y: 266455,  label: "Saudi" },
-          { y: 169709,  label: "Canada" },
-          { y: 158400,  label: "Iran" },
-          { y: 142503,  label: "Iraq" },
-          { y: 101500, label: "Kuwait" },
-          { y: 97800,  label: "UAE" },
-          { y: 80000,  label: "Russia" }
+          { y: 300878, label: "Kerla" },
+          { y: 266455,  label: "Odisha" },
+          { y: 169709,  label: "Maharashtra" },
+          { y: 158400,  label: "Tamil Nadu" },
+          { y: 142503,  label: "Andhra Pradesh" },
+          { y: 101500, label: "Karnataka" },
+          { y: 97800,  label: "Gujrat" },
+          { y: 80000,  label: "Delhi" }
         ]
       }]
     });
