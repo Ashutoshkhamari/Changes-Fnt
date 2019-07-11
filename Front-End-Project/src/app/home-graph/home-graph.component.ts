@@ -21,7 +21,7 @@ export class HomeGraphComponent implements OnInit {
         type: "column",  
         showInLegend: true, 
         legendMarkerColor: "grey",
-        legendText: "MMbbl = one million barrels",
+        // legendText: "MMbbl = one million barrels",
         dataPoints: [      
           { y: 300878, label: "Venezuela" },
           { y: 266455,  label: "Saudi" },
