@@ -1,5 +1,5 @@
 html { 
-    background: url(loginback.jpeg) no-repeat center center fixed; 
+    /* background: url(loginback.jpeg) no-repeat center center fixed;  */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -7,5 +7,7 @@ html {
   }
   .bg{
     padding-top: 50px;
+    padding-bottom: 33px;
     
   }
+  

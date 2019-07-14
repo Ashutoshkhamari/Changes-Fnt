@@ -6,3 +6,6 @@ table
 .card{
     padding-top: 70px;
  }
+ .border1{
+    border-right: 1px solid gray;
+ }
